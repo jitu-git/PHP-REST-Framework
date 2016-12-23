@@ -1,0 +1,21 @@
+{
+    "name": "maxmarks/php-rest-framework",
+    "description": "A REST framework by PHP for PHP",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "jitu-git",
+            "email": "jitendrameena38@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\":"app/"
+        },
+        "files": [
+            "app/System/Helper/helper.php"
+        ]
+    }
+}

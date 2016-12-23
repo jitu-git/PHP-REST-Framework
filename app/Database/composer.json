@@ -1,0 +1,14 @@
+{
+    "name": "maxmarks/php-rest-framework",
+    "description": "Database management",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "jitu-git",
+            "email": "jitendrameena38@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
